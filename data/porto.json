@@ -1,0 +1,28 @@
+{
+    "date": "2026-09-10",
+    "currency": "USD",
+    "total_portfolio_value": 5789.67,
+    "cash": 843.47,
+    "holdings": [
+        {
+            "ticker": "CRDO",
+            "market_value": 1377.97
+        },
+        {
+            "ticker": "IREN",
+            "market_value": 937.04
+        },
+        {
+            "ticker": "NBIS",
+            "market_value": 915.81
+        },
+        {
+            "ticker": "AVGO",
+            "market_value": 912.37
+        },
+        {
+            "ticker": "HIMS",
+            "market_value": 803.01
+        }
+    ]
+}
